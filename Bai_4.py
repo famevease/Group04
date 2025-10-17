@@ -7,4 +7,4 @@ try:
         print(content)
 
 except FileNotFoundError:
-    print("Error: File không tồn tại!")
+    print("Error: File does not exit!")
